@@ -15,7 +15,7 @@
 - **Tools**: GitHub, Firebase, VS Code, Postman
 
 ## 📊 GitHub Stats
-![Vinuji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinuji&show_icons=true&theme=radical)
+![Vinuji's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinuji2002&show_icons=true&theme=radical)
 
 ## ✨ Fun Fact
 🔥 I love exploring new technologies and working on real-world projects.
