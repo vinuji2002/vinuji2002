@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vinuji! 👋
 
-<!--
-**vinuji2002/vinuji2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineering Undergraduate** | 💻 Passionate about Development | 🎯 Learning React Native & MERN Stack
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Studying **BSc(Hons) in IT (Software Engineering)** at **SLIIT**.
+- 💡 Exploring **MERN, React Native, and Java**.
+- 🌱 Currently learning **React Native and MERN Stack**.
+- 📫 Reach me at **vinujipalihakkara@gmail.com** or **https://www.linkedin.com/in/vinuji-palihakkara-102492316/**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages**: JavaScript, C, SQL, HTML, CSS, C++, PHP, Kotlin, Java, Python
+- **Frameworks**: React Native, MERN Stack, Tailwind CSS
+- **Databases**: Firebase, Oracle, MySQL
+- **Tools**: GitHub, Firebase, VS Code, Postman
+
+## 📊 GitHub Stats
+![Vinuji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinuji&show_icons=true&theme=radical)
+
+## ✨ Fun Fact
+🔥 I love exploring new technologies and working on real-world projects.
+
+---
+⭐️ **Feel free to connect with me!**
